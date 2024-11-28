@@ -1,0 +1,608 @@
+{
+    "england": [
+        {
+            "division_id": 0,
+            "win": 24,
+            "draw": 3,
+            "lose": 3,
+            "match_num": 30,
+            "win_rate": 0.8,
+            "draw_rate": 0.1,
+            "lose_rate": 0.1,
+            "avg_score": 2.5
+        },
+        {
+            "division_id": 1,
+            "win": 39,
+            "draw": 17,
+            "lose": 6,
+            "match_num": 62,
+            "win_rate": 0.6290322580645161,
+            "draw_rate": 0.27419354838709675,
+            "lose_rate": 0.0967741935483871,
+            "avg_score": 2.161290322580645
+        },
+        {
+            "division_id": 2,
+            "win": 77,
+            "draw": 28,
+            "lose": 16,
+            "match_num": 121,
+            "win_rate": 0.6363636363636364,
+            "draw_rate": 0.23140495867768596,
+            "lose_rate": 0.1322314049586777,
+            "avg_score": 2.1404958677685952
+        },
+        {
+            "division_id": 3,
+            "win": 71,
+            "draw": 50,
+            "lose": 45,
+            "match_num": 166,
+            "win_rate": 0.42771084337349397,
+            "draw_rate": 0.30120481927710846,
+            "lose_rate": 0.2710843373493976,
+            "avg_score": 1.5843373493975903
+        },
+        {
+            "division_id": 4,
+            "win": 0,
+            "draw": 0,
+            "lose": 0,
+            "match_num": 0,
+            "win_rate": 0,
+            "draw_rate": 0,
+            "lose_rate": 0,
+            "avg_score": 0
+        },
+        {
+            "division_id": 5,
+            "win": 45,
+            "draw": 50,
+            "lose": 71,
+            "match_num": 166,
+            "win_rate": 0.2710843373493976,
+            "draw_rate": 0.30120481927710846,
+            "lose_rate": 0.42771084337349397,
+            "avg_score": 1.1144578313253013
+        },
+        {
+            "division_id": 6,
+            "win": 16,
+            "draw": 28,
+            "lose": 77,
+            "match_num": 121,
+            "win_rate": 0.1322314049586777,
+            "draw_rate": 0.23140495867768596,
+            "lose_rate": 0.6363636363636364,
+            "avg_score": 0.628099173553719
+        },
+        {
+            "division_id": 7,
+            "win": 6,
+            "draw": 17,
+            "lose": 39,
+            "match_num": 62,
+            "win_rate": 0.0967741935483871,
+            "draw_rate": 0.27419354838709675,
+            "lose_rate": 0.6290322580645161,
+            "avg_score": 0.5645161290322581
+        },
+        {
+            "division_id": 8,
+            "win": 3,
+            "draw": 3,
+            "lose": 24,
+            "match_num": 30,
+            "win_rate": 0.1,
+            "draw_rate": 0.1,
+            "lose_rate": 0.8,
+            "avg_score": 0.4
+        }
+    ],
+    "france": [
+        {
+            "division_id": 0,
+            "win": 23,
+            "draw": 0,
+            "lose": 1,
+            "match_num": 24,
+            "win_rate": 0.9583333333333334,
+            "draw_rate": 0.0,
+            "lose_rate": 0.041666666666666664,
+            "avg_score": 2.875
+        },
+        {
+            "division_id": 1,
+            "win": 42,
+            "draw": 12,
+            "lose": 8,
+            "match_num": 62,
+            "win_rate": 0.6774193548387096,
+            "draw_rate": 0.1935483870967742,
+            "lose_rate": 0.12903225806451613,
+            "avg_score": 2.225806451612903
+        },
+        {
+            "division_id": 2,
+            "win": 53,
+            "draw": 29,
+            "lose": 22,
+            "match_num": 104,
+            "win_rate": 0.5096153846153846,
+            "draw_rate": 0.27884615384615385,
+            "lose_rate": 0.21153846153846154,
+            "avg_score": 1.8076923076923077
+        },
+        {
+            "division_id": 3,
+            "win": 63,
+            "draw": 45,
+            "lose": 41,
+            "match_num": 149,
+            "win_rate": 0.4228187919463087,
+            "draw_rate": 0.30201342281879195,
+            "lose_rate": 0.2751677852348993,
+            "avg_score": 1.570469798657718
+        },
+        {
+            "division_id": 4,
+            "win": 0,
+            "draw": 0,
+            "lose": 0,
+            "match_num": 0,
+            "win_rate": 0,
+            "draw_rate": 0,
+            "lose_rate": 0,
+            "avg_score": 0
+        },
+        {
+            "division_id": 5,
+            "win": 41,
+            "draw": 45,
+            "lose": 63,
+            "match_num": 149,
+            "win_rate": 0.2751677852348993,
+            "draw_rate": 0.30201342281879195,
+            "lose_rate": 0.4228187919463087,
+            "avg_score": 1.1275167785234899
+        },
+        {
+            "division_id": 6,
+            "win": 22,
+            "draw": 29,
+            "lose": 53,
+            "match_num": 104,
+            "win_rate": 0.21153846153846154,
+            "draw_rate": 0.27884615384615385,
+            "lose_rate": 0.5096153846153846,
+            "avg_score": 0.9134615384615384
+        },
+        {
+            "division_id": 7,
+            "win": 8,
+            "draw": 12,
+            "lose": 42,
+            "match_num": 62,
+            "win_rate": 0.12903225806451613,
+            "draw_rate": 0.1935483870967742,
+            "lose_rate": 0.6774193548387096,
+            "avg_score": 0.5806451612903226
+        },
+        {
+            "division_id": 8,
+            "win": 1,
+            "draw": 0,
+            "lose": 23,
+            "match_num": 24,
+            "win_rate": 0.041666666666666664,
+            "draw_rate": 0.0,
+            "lose_rate": 0.9583333333333334,
+            "avg_score": 0.125
+        }
+    ],
+    "germany": [
+        {
+            "division_id": 0,
+            "win": 22,
+            "draw": 6,
+            "lose": 1,
+            "match_num": 29,
+            "win_rate": 0.7586206896551724,
+            "draw_rate": 0.20689655172413793,
+            "lose_rate": 0.034482758620689655,
+            "avg_score": 2.4827586206896552
+        },
+        {
+            "division_id": 1,
+            "win": 38,
+            "draw": 11,
+            "lose": 3,
+            "match_num": 52,
+            "win_rate": 0.7307692307692307,
+            "draw_rate": 0.21153846153846154,
+            "lose_rate": 0.057692307692307696,
+            "avg_score": 2.4038461538461537
+        },
+        {
+            "division_id": 2,
+            "win": 53,
+            "draw": 27,
+            "lose": 9,
+            "match_num": 89,
+            "win_rate": 0.5955056179775281,
+            "draw_rate": 0.30337078651685395,
+            "lose_rate": 0.10112359550561797,
+            "avg_score": 2.0898876404494384
+        },
+        {
+            "division_id": 3,
+            "win": 61,
+            "draw": 39,
+            "lose": 36,
+            "match_num": 136,
+            "win_rate": 0.4485294117647059,
+            "draw_rate": 0.2867647058823529,
+            "lose_rate": 0.2647058823529412,
+            "avg_score": 1.6323529411764706
+        },
+        {
+            "division_id": 4,
+            "win": 0,
+            "draw": 0,
+            "lose": 0,
+            "match_num": 0,
+            "win_rate": 0,
+            "draw_rate": 0,
+            "lose_rate": 0,
+            "avg_score": 0
+        },
+        {
+            "division_id": 5,
+            "win": 36,
+            "draw": 39,
+            "lose": 61,
+            "match_num": 136,
+            "win_rate": 0.2647058823529412,
+            "draw_rate": 0.2867647058823529,
+            "lose_rate": 0.4485294117647059,
+            "avg_score": 1.0808823529411764
+        },
+        {
+            "division_id": 6,
+            "win": 9,
+            "draw": 27,
+            "lose": 53,
+            "match_num": 89,
+            "win_rate": 0.10112359550561797,
+            "draw_rate": 0.30337078651685395,
+            "lose_rate": 0.5955056179775281,
+            "avg_score": 0.6067415730337079
+        },
+        {
+            "division_id": 7,
+            "win": 3,
+            "draw": 11,
+            "lose": 38,
+            "match_num": 52,
+            "win_rate": 0.057692307692307696,
+            "draw_rate": 0.21153846153846154,
+            "lose_rate": 0.7307692307692307,
+            "avg_score": 0.38461538461538464
+        },
+        {
+            "division_id": 8,
+            "win": 1,
+            "draw": 6,
+            "lose": 22,
+            "match_num": 29,
+            "win_rate": 0.034482758620689655,
+            "draw_rate": 0.20689655172413793,
+            "lose_rate": 0.7586206896551724,
+            "avg_score": 0.3103448275862069
+        }
+    ],
+    "italy": [
+        {
+            "division_id": 0,
+            "win": 27,
+            "draw": 2,
+            "lose": 0,
+            "match_num": 29,
+            "win_rate": 0.9310344827586207,
+            "draw_rate": 0.06896551724137931,
+            "lose_rate": 0.0,
+            "avg_score": 2.8620689655172415
+        },
+        {
+            "division_id": 1,
+            "win": 45,
+            "draw": 8,
+            "lose": 4,
+            "match_num": 57,
+            "win_rate": 0.7894736842105263,
+            "draw_rate": 0.14035087719298245,
+            "lose_rate": 0.07017543859649122,
+            "avg_score": 2.508771929824561
+        },
+        {
+            "division_id": 2,
+            "win": 75,
+            "draw": 22,
+            "lose": 16,
+            "match_num": 113,
+            "win_rate": 0.6637168141592921,
+            "draw_rate": 0.19469026548672566,
+            "lose_rate": 0.1415929203539823,
+            "avg_score": 2.185840707964602
+        },
+        {
+            "division_id": 3,
+            "win": 88,
+            "draw": 50,
+            "lose": 41,
+            "match_num": 179,
+            "win_rate": 0.49162011173184356,
+            "draw_rate": 0.27932960893854747,
+            "lose_rate": 0.22905027932960895,
+            "avg_score": 1.7541899441340782
+        },
+        {
+            "division_id": 4,
+            "win": 0,
+            "draw": 0,
+            "lose": 0,
+            "match_num": 0,
+            "win_rate": 0,
+            "draw_rate": 0,
+            "lose_rate": 0,
+            "avg_score": 0
+        },
+        {
+            "division_id": 5,
+            "win": 41,
+            "draw": 50,
+            "lose": 88,
+            "match_num": 179,
+            "win_rate": 0.22905027932960895,
+            "draw_rate": 0.27932960893854747,
+            "lose_rate": 0.49162011173184356,
+            "avg_score": 0.9664804469273743
+        },
+        {
+            "division_id": 6,
+            "win": 16,
+            "draw": 22,
+            "lose": 75,
+            "match_num": 113,
+            "win_rate": 0.1415929203539823,
+            "draw_rate": 0.19469026548672566,
+            "lose_rate": 0.6637168141592921,
+            "avg_score": 0.6194690265486725
+        },
+        {
+            "division_id": 7,
+            "win": 4,
+            "draw": 8,
+            "lose": 45,
+            "match_num": 57,
+            "win_rate": 0.07017543859649122,
+            "draw_rate": 0.14035087719298245,
+            "lose_rate": 0.7894736842105263,
+            "avg_score": 0.3508771929824561
+        },
+        {
+            "division_id": 8,
+            "win": 0,
+            "draw": 2,
+            "lose": 27,
+            "match_num": 29,
+            "win_rate": 0.0,
+            "draw_rate": 0.06896551724137931,
+            "lose_rate": 0.9310344827586207,
+            "avg_score": 0.06896551724137931
+        }
+    ],
+    "spain": [
+        {
+            "division_id": 0,
+            "win": 29,
+            "draw": 2,
+            "lose": 0,
+            "match_num": 31,
+            "win_rate": 0.9354838709677419,
+            "draw_rate": 0.06451612903225806,
+            "lose_rate": 0.0,
+            "avg_score": 2.870967741935484
+        },
+        {
+            "division_id": 1,
+            "win": 34,
+            "draw": 6,
+            "lose": 4,
+            "match_num": 44,
+            "win_rate": 0.7727272727272727,
+            "draw_rate": 0.13636363636363635,
+            "lose_rate": 0.09090909090909091,
+            "avg_score": 2.4545454545454546
+        },
+        {
+            "division_id": 2,
+            "win": 81,
+            "draw": 24,
+            "lose": 22,
+            "match_num": 127,
+            "win_rate": 0.6377952755905512,
+            "draw_rate": 0.1889763779527559,
+            "lose_rate": 0.1732283464566929,
+            "avg_score": 2.1023622047244093
+        },
+        {
+            "division_id": 3,
+            "win": 83,
+            "draw": 54,
+            "lose": 40,
+            "match_num": 177,
+            "win_rate": 0.4689265536723164,
+            "draw_rate": 0.3050847457627119,
+            "lose_rate": 0.22598870056497175,
+            "avg_score": 1.7118644067796611
+        },
+        {
+            "division_id": 4,
+            "win": 0,
+            "draw": 0,
+            "lose": 0,
+            "match_num": 0,
+            "win_rate": 0,
+            "draw_rate": 0,
+            "lose_rate": 0,
+            "avg_score": 0
+        },
+        {
+            "division_id": 5,
+            "win": 40,
+            "draw": 54,
+            "lose": 83,
+            "match_num": 177,
+            "win_rate": 0.22598870056497175,
+            "draw_rate": 0.3050847457627119,
+            "lose_rate": 0.4689265536723164,
+            "avg_score": 0.9830508474576272
+        },
+        {
+            "division_id": 6,
+            "win": 22,
+            "draw": 24,
+            "lose": 81,
+            "match_num": 127,
+            "win_rate": 0.1732283464566929,
+            "draw_rate": 0.1889763779527559,
+            "lose_rate": 0.6377952755905512,
+            "avg_score": 0.7086614173228346
+        },
+        {
+            "division_id": 7,
+            "win": 4,
+            "draw": 6,
+            "lose": 34,
+            "match_num": 44,
+            "win_rate": 0.09090909090909091,
+            "draw_rate": 0.13636363636363635,
+            "lose_rate": 0.7727272727272727,
+            "avg_score": 0.4090909090909091
+        },
+        {
+            "division_id": 8,
+            "win": 0,
+            "draw": 2,
+            "lose": 29,
+            "match_num": 31,
+            "win_rate": 0.0,
+            "draw_rate": 0.06451612903225806,
+            "lose_rate": 0.9354838709677419,
+            "avg_score": 0.06451612903225806
+        }
+    ],
+    "euro": [
+        {
+            "division_id": 0,
+            "win": 0,
+            "draw": 0,
+            "lose": 0,
+            "match_num": 0,
+            "win_rate": 0,
+            "draw_rate": 0,
+            "lose_rate": 0,
+            "avg_score": 0
+        },
+        {
+            "division_id": 1,
+            "win": 4,
+            "draw": 0,
+            "lose": 0,
+            "match_num": 4,
+            "win_rate": 1.0,
+            "draw_rate": 0.0,
+            "lose_rate": 0.0,
+            "avg_score": 3.0
+        },
+        {
+            "division_id": 2,
+            "win": 17,
+            "draw": 1,
+            "lose": 2,
+            "match_num": 20,
+            "win_rate": 0.85,
+            "draw_rate": 0.05,
+            "lose_rate": 0.1,
+            "avg_score": 2.6
+        },
+        {
+            "division_id": 3,
+            "win": 13,
+            "draw": 7,
+            "lose": 7,
+            "match_num": 27,
+            "win_rate": 0.48148148148148145,
+            "draw_rate": 0.25925925925925924,
+            "lose_rate": 0.25925925925925924,
+            "avg_score": 1.7037037037037037
+        },
+        {
+            "division_id": 4,
+            "win": 0,
+            "draw": 0,
+            "lose": 0,
+            "match_num": 0,
+            "win_rate": 0,
+            "draw_rate": 0,
+            "lose_rate": 0,
+            "avg_score": 0
+        },
+        {
+            "division_id": 5,
+            "win": 7,
+            "draw": 7,
+            "lose": 13,
+            "match_num": 27,
+            "win_rate": 0.25925925925925924,
+            "draw_rate": 0.25925925925925924,
+            "lose_rate": 0.48148148148148145,
+            "avg_score": 1.037037037037037
+        },
+        {
+            "division_id": 6,
+            "win": 2,
+            "draw": 1,
+            "lose": 17,
+            "match_num": 20,
+            "win_rate": 0.1,
+            "draw_rate": 0.05,
+            "lose_rate": 0.85,
+            "avg_score": 0.35
+        },
+        {
+            "division_id": 7,
+            "win": 0,
+            "draw": 0,
+            "lose": 4,
+            "match_num": 4,
+            "win_rate": 0.0,
+            "draw_rate": 0.0,
+            "lose_rate": 1.0,
+            "avg_score": 0.0
+        },
+        {
+            "division_id": 8,
+            "win": 0,
+            "draw": 0,
+            "lose": 0,
+            "match_num": 0,
+            "win_rate": 0,
+            "draw_rate": 0,
+            "lose_rate": 0,
+            "avg_score": 0
+        }
+    ]
+}

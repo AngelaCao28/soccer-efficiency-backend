@@ -1,0 +1,990 @@
+{
+    "england": [
+        {
+            "team_name": "Burnley",
+            "team_id": 1646,
+            "offensive_efficiency": 0.20300720393669686,
+            "defensive_efficiency": 0.18154382026129545,
+            "net_efficiency": 0.021463383675401477,
+            "match_num": 37
+        },
+        {
+            "team_name": "AFC Bournemouth",
+            "team_id": 1659,
+            "offensive_efficiency": 0.2092385614554163,
+            "defensive_efficiency": 0.21048024715219665,
+            "net_efficiency": -0.0012416856967803057,
+            "match_num": 38
+        },
+        {
+            "team_name": "Crystal Palace",
+            "team_id": 1628,
+            "offensive_efficiency": 0.2091781349419828,
+            "defensive_efficiency": 0.1961394391295871,
+            "net_efficiency": 0.013038695812395721,
+            "match_num": 38
+        },
+        {
+            "team_name": "West Bromwich Albion",
+            "team_id": 1627,
+            "offensive_efficiency": 0.17170218939037807,
+            "defensive_efficiency": 0.1587280503441916,
+            "net_efficiency": 0.012974139046186474,
+            "match_num": 38
+        },
+        {
+            "team_name": "Arsenal",
+            "team_id": 1609,
+            "offensive_efficiency": 0.21453900488258282,
+            "defensive_efficiency": 0.21358545222088063,
+            "net_efficiency": 0.0009535526617021858,
+            "match_num": 38
+        },
+        {
+            "team_name": "Huddersfield Town",
+            "team_id": 1673,
+            "offensive_efficiency": 0.1553582829148008,
+            "defensive_efficiency": 0.2045074046057338,
+            "net_efficiency": -0.04914912169093301,
+            "match_num": 38
+        },
+        {
+            "team_name": "Brighton & Hove Albion",
+            "team_id": 1651,
+            "offensive_efficiency": 0.16601980625730564,
+            "defensive_efficiency": 0.1899300438597761,
+            "net_efficiency": -0.02391023760247051,
+            "match_num": 38
+        },
+        {
+            "team_name": "Liverpool",
+            "team_id": 1612,
+            "offensive_efficiency": 0.2234208148098598,
+            "defensive_efficiency": 0.15292226208902698,
+            "net_efficiency": 0.07049855272083284,
+            "match_num": 38
+        },
+        {
+            "team_name": "Watford",
+            "team_id": 1644,
+            "offensive_efficiency": 0.1725308008441973,
+            "defensive_efficiency": 0.20994068762740217,
+            "net_efficiency": -0.03740988678320487,
+            "match_num": 38
+        },
+        {
+            "team_name": "Manchester United",
+            "team_id": 1611,
+            "offensive_efficiency": 0.18495240556010217,
+            "defensive_efficiency": 0.17996771535182804,
+            "net_efficiency": 0.004984690208274125,
+            "match_num": 38
+        },
+        {
+            "team_name": "Newcastle United",
+            "team_id": 1613,
+            "offensive_efficiency": 0.2434144267260924,
+            "defensive_efficiency": 0.16232007600035436,
+            "net_efficiency": 0.08109435072573795,
+            "match_num": 38
+        },
+        {
+            "team_name": "Chelsea",
+            "team_id": 1610,
+            "offensive_efficiency": 0.20978943104601921,
+            "defensive_efficiency": 0.14367123420913208,
+            "net_efficiency": 0.06611819683688716,
+            "match_num": 38
+        },
+        {
+            "team_name": "Manchester City",
+            "team_id": 1625,
+            "offensive_efficiency": 0.2042997421828152,
+            "defensive_efficiency": 0.16596638926938015,
+            "net_efficiency": 0.03833335291343502,
+            "match_num": 38
+        },
+        {
+            "team_name": "Southampton",
+            "team_id": 1619,
+            "offensive_efficiency": 0.18778499141595262,
+            "defensive_efficiency": 0.2217833599124066,
+            "net_efficiency": -0.03399836849645394,
+            "match_num": 38
+        },
+        {
+            "team_name": "Swansea City",
+            "team_id": 10531,
+            "offensive_efficiency": 0.12963309503624187,
+            "defensive_efficiency": 0.213693881968657,
+            "net_efficiency": -0.08406078693241505,
+            "match_num": 38
+        },
+        {
+            "team_name": "Stoke City",
+            "team_id": 1639,
+            "offensive_efficiency": 0.20509128313151914,
+            "defensive_efficiency": 0.23853647221697555,
+            "net_efficiency": -0.03344518908545633,
+            "match_num": 38
+        },
+        {
+            "team_name": "Leicester City",
+            "team_id": 1631,
+            "offensive_efficiency": 0.20855073510298738,
+            "defensive_efficiency": 0.1936776615349189,
+            "net_efficiency": 0.014873073568068478,
+            "match_num": 38
+        },
+        {
+            "team_name": "Tottenham Hotspur",
+            "team_id": 1624,
+            "offensive_efficiency": 0.2063950905126017,
+            "defensive_efficiency": 0.19520696429915646,
+            "net_efficiency": 0.011188126213445223,
+            "match_num": 37
+        },
+        {
+            "team_name": "Everton",
+            "team_id": 1623,
+            "offensive_efficiency": 0.17360820422116444,
+            "defensive_efficiency": 0.21678367540686663,
+            "net_efficiency": -0.043175471185702204,
+            "match_num": 38
+        },
+        {
+            "team_name": "West Ham United",
+            "team_id": 1633,
+            "offensive_efficiency": 0.19468186659414896,
+            "defensive_efficiency": 0.2229519832428666,
+            "net_efficiency": -0.028270116648717602,
+            "match_num": 38
+        }
+    ],
+    "france": [
+        {
+            "team_name": "Bordeaux",
+            "team_id": 3772,
+            "offensive_efficiency": 0.17743440576180114,
+            "defensive_efficiency": 0.17979614117255138,
+            "net_efficiency": -0.002361735410750222,
+            "match_num": 34
+        },
+        {
+            "team_name": "PSG",
+            "team_id": 3767,
+            "offensive_efficiency": 0.21560948072866526,
+            "defensive_efficiency": 0.17818715014941428,
+            "net_efficiency": 0.03742233057925101,
+            "match_num": 34
+        },
+        {
+            "team_name": "Saint-\\u00c9tienne",
+            "team_id": 3782,
+            "offensive_efficiency": 0.17926105255152025,
+            "defensive_efficiency": 0.2509304917215365,
+            "net_efficiency": -0.07166943917001618,
+            "match_num": 34
+        },
+        {
+            "team_name": "Troyes",
+            "team_id": 3795,
+            "offensive_efficiency": 0.18779135814799047,
+            "defensive_efficiency": 0.1985658328240105,
+            "net_efficiency": -0.010774474676019977,
+            "match_num": 34
+        },
+        {
+            "team_name": "Montpellier",
+            "team_id": 3787,
+            "offensive_efficiency": 0.21415739052745258,
+            "defensive_efficiency": 0.13612435673732057,
+            "net_efficiency": 0.07803303379013204,
+            "match_num": 34
+        },
+        {
+            "team_name": "Nice",
+            "team_id": 3775,
+            "offensive_efficiency": 0.1742789523611197,
+            "defensive_efficiency": 0.1865349818172699,
+            "net_efficiency": -0.01225602945615019,
+            "match_num": 34
+        },
+        {
+            "team_name": "Strasbourg",
+            "team_id": 3779,
+            "offensive_efficiency": 0.18306958931292053,
+            "defensive_efficiency": 0.23547956125067734,
+            "net_efficiency": -0.05240997193775678,
+            "match_num": 34
+        },
+        {
+            "team_name": "Amiens SC",
+            "team_id": 3789,
+            "offensive_efficiency": 0.1569889106229488,
+            "defensive_efficiency": 0.22047288194103457,
+            "net_efficiency": -0.06348397131808574,
+            "match_num": 34
+        },
+        {
+            "team_name": "Monaco",
+            "team_id": 19830,
+            "offensive_efficiency": 0.21823287707356526,
+            "defensive_efficiency": 0.18946471605752468,
+            "net_efficiency": 0.028768161016040576,
+            "match_num": 34
+        },
+        {
+            "team_name": "Guingamp",
+            "team_id": 3785,
+            "offensive_efficiency": 0.2063979656909662,
+            "defensive_efficiency": 0.20132769319946878,
+            "net_efficiency": 0.005070272491497428,
+            "match_num": 34
+        },
+        {
+            "team_name": "Caen",
+            "team_id": 3783,
+            "offensive_efficiency": 0.188403048719947,
+            "defensive_efficiency": 0.17817302072020325,
+            "net_efficiency": 0.01023002799974375,
+            "match_num": 33
+        },
+        {
+            "team_name": "Metz",
+            "team_id": 3777,
+            "offensive_efficiency": 0.24298037547287055,
+            "defensive_efficiency": 0.24056338582927078,
+            "net_efficiency": 0.002416989643599818,
+            "match_num": 34
+        },
+        {
+            "team_name": "Toulouse",
+            "team_id": 3780,
+            "offensive_efficiency": 0.21709343819328217,
+            "defensive_efficiency": 0.1970482734159852,
+            "net_efficiency": 0.0200451647772969,
+            "match_num": 33
+        },
+        {
+            "team_name": "Angers",
+            "team_id": 3799,
+            "offensive_efficiency": 0.22795362054103865,
+            "defensive_efficiency": 0.1664955510855738,
+            "net_efficiency": 0.06145806945546487,
+            "match_num": 34
+        },
+        {
+            "team_name": "Olympique Marseille",
+            "team_id": 3771,
+            "offensive_efficiency": 0.24426078625498637,
+            "defensive_efficiency": 0.22051365444166388,
+            "net_efficiency": 0.023747131813322487,
+            "match_num": 34
+        },
+        {
+            "team_name": "Lille",
+            "team_id": 3776,
+            "offensive_efficiency": 0.1425128968356347,
+            "defensive_efficiency": 0.2518987437005958,
+            "net_efficiency": -0.10938584686496103,
+            "match_num": 34
+        },
+        {
+            "team_name": "Dijon",
+            "team_id": 3804,
+            "offensive_efficiency": 0.20062761163900938,
+            "defensive_efficiency": 0.2565572368217006,
+            "net_efficiency": -0.05592962518269125,
+            "match_num": 34
+        },
+        {
+            "team_name": "Olympique Lyonnais",
+            "team_id": 3766,
+            "offensive_efficiency": 0.2477015223293624,
+            "defensive_efficiency": 0.20935339559213295,
+            "net_efficiency": 0.0383481267372295,
+            "match_num": 34
+        },
+        {
+            "team_name": "Nantes",
+            "team_id": 3770,
+            "offensive_efficiency": 0.21990095635487653,
+            "defensive_efficiency": 0.15015652133552784,
+            "net_efficiency": 0.06974443501934859,
+            "match_num": 34
+        },
+        {
+            "team_name": "Rennes",
+            "team_id": 3774,
+            "offensive_efficiency": 0.21103523360553475,
+            "defensive_efficiency": 0.2071574360656468,
+            "net_efficiency": 0.0038777975398879136,
+            "match_num": 34
+        }
+    ],
+    "germany": [
+        {
+            "team_name": "Bayern M\\u00fcnchen",
+            "team_id": 2444,
+            "offensive_efficiency": 0.21947196084144718,
+            "defensive_efficiency": 0.19832650997931564,
+            "net_efficiency": 0.02114545086213154,
+            "match_num": 34
+        },
+        {
+            "team_name": "Stuttgart",
+            "team_id": 2445,
+            "offensive_efficiency": 0.19188324037470286,
+            "defensive_efficiency": 0.1940852839282107,
+            "net_efficiency": -0.002202043553507756,
+            "match_num": 34
+        },
+        {
+            "team_name": "Hoffenheim",
+            "team_id": 2482,
+            "offensive_efficiency": 0.2429199559393132,
+            "defensive_efficiency": 0.20039271432208422,
+            "net_efficiency": 0.042527241617229025,
+            "match_num": 34
+        },
+        {
+            "team_name": "Borussia Dortmund",
+            "team_id": 2447,
+            "offensive_efficiency": 0.20200639226868566,
+            "defensive_efficiency": 0.2620069531185387,
+            "net_efficiency": -0.0600005608498529,
+            "match_num": 34
+        },
+        {
+            "team_name": "Hertha BSC",
+            "team_id": 2457,
+            "offensive_efficiency": 0.20649828832285141,
+            "defensive_efficiency": 0.2012174846046642,
+            "net_efficiency": 0.00528080371818717,
+            "match_num": 34
+        },
+        {
+            "team_name": "RB Leipzig",
+            "team_id": 2975,
+            "offensive_efficiency": 0.23497665948015575,
+            "defensive_efficiency": 0.25049630771308296,
+            "net_efficiency": -0.015519648232927159,
+            "match_num": 34
+        },
+        {
+            "team_name": "Freiburg",
+            "team_id": 2453,
+            "offensive_efficiency": 0.1796580186028643,
+            "defensive_efficiency": 0.18921605282957363,
+            "net_efficiency": -0.00955803422670932,
+            "match_num": 34
+        },
+        {
+            "team_name": "Augsburg",
+            "team_id": 2481,
+            "offensive_efficiency": 0.23647532040224514,
+            "defensive_efficiency": 0.24136965982986158,
+            "net_efficiency": -0.004894339427616455,
+            "match_num": 34
+        },
+        {
+            "team_name": "Schalke 04",
+            "team_id": 2449,
+            "offensive_efficiency": 0.23646445830479745,
+            "defensive_efficiency": 0.17221917613128318,
+            "net_efficiency": 0.06424528217351422,
+            "match_num": 34
+        },
+        {
+            "team_name": "Eintracht Frankfurt",
+            "team_id": 2462,
+            "offensive_efficiency": 0.2194727002250147,
+            "defensive_efficiency": 0.2001314393926447,
+            "net_efficiency": 0.019341260832369988,
+            "match_num": 34
+        },
+        {
+            "team_name": "Hannover 96",
+            "team_id": 2455,
+            "offensive_efficiency": 0.24788845573883667,
+            "defensive_efficiency": 0.2392836886299347,
+            "net_efficiency": 0.008604767108901805,
+            "match_num": 34
+        },
+        {
+            "team_name": "Bayer Leverkusen",
+            "team_id": 2446,
+            "offensive_efficiency": 0.2221009901331954,
+            "defensive_efficiency": 0.18562423037369555,
+            "net_efficiency": 0.036476759759499856,
+            "match_num": 34
+        },
+        {
+            "team_name": "Borussia M'gladbach",
+            "team_id": 2454,
+            "offensive_efficiency": 0.19449344046298933,
+            "defensive_efficiency": 0.24108847703242803,
+            "net_efficiency": -0.0465950365694387,
+            "match_num": 34
+        },
+        {
+            "team_name": "Hamburger SV",
+            "team_id": 2450,
+            "offensive_efficiency": 0.2088432870175543,
+            "defensive_efficiency": 0.21668686072785268,
+            "net_efficiency": -0.007843573710298358,
+            "match_num": 34
+        },
+        {
+            "team_name": "Werder Bremen",
+            "team_id": 2443,
+            "offensive_efficiency": 0.23591273890892298,
+            "defensive_efficiency": 0.2140335114613757,
+            "net_efficiency": 0.02187922744754732,
+            "match_num": 34
+        },
+        {
+            "team_name": "Mainz 05",
+            "team_id": 2460,
+            "offensive_efficiency": 0.25365621069040073,
+            "defensive_efficiency": 0.19798712971431864,
+            "net_efficiency": 0.055669080976082114,
+            "match_num": 34
+        },
+        {
+            "team_name": "Wolfsburg",
+            "team_id": 2451,
+            "offensive_efficiency": 0.15616368692489999,
+            "defensive_efficiency": 0.20897214511956186,
+            "net_efficiency": -0.0528084581946619,
+            "match_num": 34
+        },
+        {
+            "team_name": "K\\u00f6ln",
+            "team_id": 2463,
+            "offensive_efficiency": 0.1926786941799124,
+            "defensive_efficiency": 0.268426873910363,
+            "net_efficiency": -0.07574817973045055,
+            "match_num": 34
+        }
+    ],
+    "italy": [
+        {
+            "team_name": "Lazio",
+            "team_id": 3162,
+            "offensive_efficiency": 0.22927402105617284,
+            "defensive_efficiency": 0.18681281968282656,
+            "net_efficiency": 0.042461201373346295,
+            "match_num": 37
+        },
+        {
+            "team_name": "Internazionale",
+            "team_id": 3161,
+            "offensive_efficiency": 0.20790050144668965,
+            "defensive_efficiency": 0.1604617684967918,
+            "net_efficiency": 0.047438732949897866,
+            "match_num": 38
+        },
+        {
+            "team_name": "Roma",
+            "team_id": 3158,
+            "offensive_efficiency": 0.20890505753688124,
+            "defensive_efficiency": 0.20260673277045407,
+            "net_efficiency": 0.006298324766427129,
+            "match_num": 37
+        },
+        {
+            "team_name": "Sassuolo",
+            "team_id": 3315,
+            "offensive_efficiency": 0.21404105949847801,
+            "defensive_efficiency": 0.18993602483099026,
+            "net_efficiency": 0.024105034667487778,
+            "match_num": 38
+        },
+        {
+            "team_name": "Cagliari",
+            "team_id": 3173,
+            "offensive_efficiency": 0.16672628490012148,
+            "defensive_efficiency": 0.19106723562548394,
+            "net_efficiency": -0.024340950725362433,
+            "match_num": 38
+        },
+        {
+            "team_name": "Atalanta",
+            "team_id": 3172,
+            "offensive_efficiency": 0.21916037525851723,
+            "defensive_efficiency": 0.15806759006319693,
+            "net_efficiency": 0.06109278519532024,
+            "match_num": 38
+        },
+        {
+            "team_name": "Chievo",
+            "team_id": 3165,
+            "offensive_efficiency": 0.18765566823667565,
+            "defensive_efficiency": 0.19501774955860104,
+            "net_efficiency": -0.007362081321925379,
+            "match_num": 38
+        },
+        {
+            "team_name": "Benevento",
+            "team_id": 3219,
+            "offensive_efficiency": 0.17673639249955694,
+            "defensive_efficiency": 0.2497275651716682,
+            "net_efficiency": -0.07299117267211117,
+            "match_num": 38
+        },
+        {
+            "team_name": "Bologna",
+            "team_id": 3166,
+            "offensive_efficiency": 0.14934908233849775,
+            "defensive_efficiency": 0.19289104911471702,
+            "net_efficiency": -0.04354196677621926,
+            "match_num": 38
+        },
+        {
+            "team_name": "Udinese",
+            "team_id": 3163,
+            "offensive_efficiency": 0.18693637719642037,
+            "defensive_efficiency": 0.19053667134632063,
+            "net_efficiency": -0.003600294149900235,
+            "match_num": 37
+        },
+        {
+            "team_name": "Crotone",
+            "team_id": 3197,
+            "offensive_efficiency": 0.22755891363440567,
+            "defensive_efficiency": 0.21461617562265933,
+            "net_efficiency": 0.012942738011746247,
+            "match_num": 38
+        },
+        {
+            "team_name": "Napoli",
+            "team_id": 3187,
+            "offensive_efficiency": 0.22586486980171883,
+            "defensive_efficiency": 0.13633058191572098,
+            "net_efficiency": 0.08953428788599778,
+            "match_num": 38
+        },
+        {
+            "team_name": "Milan",
+            "team_id": 3157,
+            "offensive_efficiency": 0.22795010122168943,
+            "defensive_efficiency": 0.1740047322497429,
+            "net_efficiency": 0.053945368971946545,
+            "match_num": 38
+        },
+        {
+            "team_name": "Fiorentina",
+            "team_id": 3176,
+            "offensive_efficiency": 0.22604156839178974,
+            "defensive_efficiency": 0.19637186028485057,
+            "net_efficiency": 0.029669708106939183,
+            "match_num": 38
+        },
+        {
+            "team_name": "Sampdoria",
+            "team_id": 3164,
+            "offensive_efficiency": 0.2013715082541607,
+            "defensive_efficiency": 0.26582257183719654,
+            "net_efficiency": -0.06445106358303578,
+            "match_num": 37
+        },
+        {
+            "team_name": "SPAL",
+            "team_id": 3204,
+            "offensive_efficiency": 0.1649592818962656,
+            "defensive_efficiency": 0.21540387293661184,
+            "net_efficiency": -0.050444591040346196,
+            "match_num": 38
+        },
+        {
+            "team_name": "Torino",
+            "team_id": 3185,
+            "offensive_efficiency": 0.181869526608869,
+            "defensive_efficiency": 0.21231277126929748,
+            "net_efficiency": -0.030443244660428536,
+            "match_num": 38
+        },
+        {
+            "team_name": "Genoa",
+            "team_id": 3193,
+            "offensive_efficiency": 0.16583037198352,
+            "defensive_efficiency": 0.1925596574729399,
+            "net_efficiency": -0.02672928548941986,
+            "match_num": 38
+        },
+        {
+            "team_name": "Juventus",
+            "team_id": 3159,
+            "offensive_efficiency": 0.19157422169098012,
+            "defensive_efficiency": 0.12084286972280035,
+            "net_efficiency": 0.07073135196817973,
+            "match_num": 38
+        },
+        {
+            "team_name": "Hellas Verona",
+            "team_id": 3194,
+            "offensive_efficiency": 0.15472937665406597,
+            "defensive_efficiency": 0.26955193991137333,
+            "net_efficiency": -0.11482256325730736,
+            "match_num": 38
+        }
+    ],
+    "spain": [
+        {
+            "team_name": "Barcelona",
+            "team_id": 676,
+            "offensive_efficiency": 0.2318109134370629,
+            "defensive_efficiency": 0.19848349657387468,
+            "net_efficiency": 0.03332741686318824,
+            "match_num": 38
+        },
+        {
+            "team_name": "Real Sociedad",
+            "team_id": 687,
+            "offensive_efficiency": 0.17348203831594047,
+            "defensive_efficiency": 0.2095710621277023,
+            "net_efficiency": -0.03608902381176189,
+            "match_num": 38
+        },
+        {
+            "team_name": "Atl\\u00e9tico Madrid",
+            "team_id": 679,
+            "offensive_efficiency": 0.1954638905935997,
+            "defensive_efficiency": 0.14725007214639696,
+            "net_efficiency": 0.048213818447202704,
+            "match_num": 37
+        },
+        {
+            "team_name": "Eibar",
+            "team_id": 701,
+            "offensive_efficiency": 0.19007689441839648,
+            "defensive_efficiency": 0.19847487849343173,
+            "net_efficiency": -0.008397984075035206,
+            "match_num": 38
+        },
+        {
+            "team_name": "Espanyol",
+            "team_id": 691,
+            "offensive_efficiency": 0.18938042480474881,
+            "defensive_efficiency": 0.1977807254491145,
+            "net_efficiency": -0.008400300644365621,
+            "match_num": 38
+        },
+        {
+            "team_name": "Athletic Club",
+            "team_id": 678,
+            "offensive_efficiency": 0.1980765900744352,
+            "defensive_efficiency": 0.2132465336194489,
+            "net_efficiency": -0.01516994354501372,
+            "match_num": 38
+        },
+        {
+            "team_name": "Valencia",
+            "team_id": 674,
+            "offensive_efficiency": 0.2381304868121023,
+            "defensive_efficiency": 0.19202554011801606,
+            "net_efficiency": 0.04610494669408621,
+            "match_num": 38
+        },
+        {
+            "team_name": "Deportivo La Coru\\u00f1a",
+            "team_id": 677,
+            "offensive_efficiency": 0.18428087848324565,
+            "defensive_efficiency": 0.20728190492887993,
+            "net_efficiency": -0.02300102644563431,
+            "match_num": 38
+        },
+        {
+            "team_name": "Real Madrid",
+            "team_id": 675,
+            "offensive_efficiency": 0.26832059591552726,
+            "defensive_efficiency": 0.20354999503461835,
+            "net_efficiency": 0.06477060088090891,
+            "match_num": 38
+        },
+        {
+            "team_name": "Villarreal",
+            "team_id": 682,
+            "offensive_efficiency": 0.20313865554174293,
+            "defensive_efficiency": 0.1947071089275668,
+            "net_efficiency": 0.00843154661417607,
+            "match_num": 38
+        },
+        {
+            "team_name": "Deportivo Alav\\u00e9s",
+            "team_id": 696,
+            "offensive_efficiency": 0.2184225266841264,
+            "defensive_efficiency": 0.18310735953675217,
+            "net_efficiency": 0.035315167147374205,
+            "match_num": 38
+        },
+        {
+            "team_name": "Sevilla",
+            "team_id": 680,
+            "offensive_efficiency": 0.21779193220246224,
+            "defensive_efficiency": 0.20215052123701116,
+            "net_efficiency": 0.01564141096545103,
+            "match_num": 38
+        },
+        {
+            "team_name": "Getafe",
+            "team_id": 698,
+            "offensive_efficiency": 0.23900500423104076,
+            "defensive_efficiency": 0.15263575978454966,
+            "net_efficiency": 0.08636924444649113,
+            "match_num": 38
+        },
+        {
+            "team_name": "M\\u00e1laga",
+            "team_id": 683,
+            "offensive_efficiency": 0.1828024896262214,
+            "defensive_efficiency": 0.2044125506850219,
+            "net_efficiency": -0.021610061058800433,
+            "match_num": 38
+        },
+        {
+            "team_name": "Las Palmas",
+            "team_id": 714,
+            "offensive_efficiency": 0.14050392064817388,
+            "defensive_efficiency": 0.307334161526641,
+            "net_efficiency": -0.1668302408784671,
+            "match_num": 37
+        },
+        {
+            "team_name": "Girona",
+            "team_id": 756,
+            "offensive_efficiency": 0.222829175682769,
+            "defensive_efficiency": 0.2147387670097783,
+            "net_efficiency": 0.008090408672990688,
+            "match_num": 38
+        },
+        {
+            "team_name": "Real Betis",
+            "team_id": 684,
+            "offensive_efficiency": 0.16602129436467705,
+            "defensive_efficiency": 0.2153925447839639,
+            "net_efficiency": -0.04937125041928684,
+            "match_num": 38
+        },
+        {
+            "team_name": "Legan\\u00e9s",
+            "team_id": 712,
+            "offensive_efficiency": 0.21763155866732434,
+            "defensive_efficiency": 0.18256488561861695,
+            "net_efficiency": 0.035066673048707364,
+            "match_num": 38
+        },
+        {
+            "team_name": "Celta de Vigo",
+            "team_id": 692,
+            "offensive_efficiency": 0.17998585949511733,
+            "defensive_efficiency": 0.221528541504716,
+            "net_efficiency": -0.04154268200959875,
+            "match_num": 38
+        },
+        {
+            "team_name": "Levante",
+            "team_id": 695,
+            "offensive_efficiency": 0.19218986250788261,
+            "defensive_efficiency": 0.20623006820131812,
+            "net_efficiency": -0.01404020569343541,
+            "match_num": 38
+        }
+    ],
+    "euro": [
+        {
+            "team_name": "Finland",
+            "team_id": 1835,
+            "offensive_efficiency": 0.0488127173373075,
+            "defensive_efficiency": 0.15289795420145683,
+            "net_efficiency": -0.10408523686414932,
+            "match_num": 3
+        },
+        {
+            "team_name": "Russia",
+            "team_id": 796,
+            "offensive_efficiency": 0.1068717702380723,
+            "defensive_efficiency": 0.17542916221591662,
+            "net_efficiency": -0.06855739197784431,
+            "match_num": 3
+        },
+        {
+            "team_name": "Switzerland",
+            "team_id": 773,
+            "offensive_efficiency": 0.15893331779965592,
+            "defensive_efficiency": 0.17906257779847629,
+            "net_efficiency": -0.020129259998820336,
+            "match_num": 5
+        },
+        {
+            "team_name": "Turkey",
+            "team_id": 909,
+            "offensive_efficiency": 0.14082458386683738,
+            "defensive_efficiency": 0.3187200730896234,
+            "net_efficiency": -0.17789548922278606,
+            "match_num": 3
+        },
+        {
+            "team_name": "Belgium",
+            "team_id": 782,
+            "offensive_efficiency": 0.13589718131275594,
+            "defensive_efficiency": 0.1018985304121032,
+            "net_efficiency": 0.03399865090065276,
+            "match_num": 5
+        },
+        {
+            "team_name": "Italy",
+            "team_id": 914,
+            "offensive_efficiency": 0.1624108228073559,
+            "defensive_efficiency": 0.07525721244117042,
+            "net_efficiency": 0.08715361036618548,
+            "match_num": 7
+        },
+        {
+            "team_name": "England",
+            "team_id": 768,
+            "offensive_efficiency": 0.13109259931974876,
+            "defensive_efficiency": 0.091195291452621,
+            "net_efficiency": 0.03989730786712775,
+            "match_num": 7
+        },
+        {
+            "team_name": "Denmark",
+            "team_id": 776,
+            "offensive_efficiency": 0.250604070552607,
+            "defensive_efficiency": 0.14732404664355717,
+            "net_efficiency": 0.10328002390904978,
+            "match_num": 6
+        },
+        {
+            "team_name": "Germany",
+            "team_id": 770,
+            "offensive_efficiency": 0.13480730197765586,
+            "defensive_efficiency": 0.14615951793763643,
+            "net_efficiency": -0.011352215959980566,
+            "match_num": 4
+        },
+        {
+            "team_name": "Sweden",
+            "team_id": 790,
+            "offensive_efficiency": 0.15319845123472264,
+            "defensive_efficiency": 0.10326238033535984,
+            "net_efficiency": 0.04993607089936282,
+            "match_num": 4
+        },
+        {
+            "team_name": "Ukraine",
+            "team_id": 911,
+            "offensive_efficiency": 0.15301235897867418,
+            "defensive_efficiency": 0.16473732133789848,
+            "net_efficiency": -0.011724962359224286,
+            "match_num": 5
+        },
+        {
+            "team_name": "Croatia",
+            "team_id": 785,
+            "offensive_efficiency": 0.16117265419076274,
+            "defensive_efficiency": 0.11836872142822522,
+            "net_efficiency": 0.04280393276253753,
+            "match_num": 4
+        },
+        {
+            "team_name": "Spain",
+            "team_id": 772,
+            "offensive_efficiency": 0.16748666376654206,
+            "defensive_efficiency": 0.13560760730384483,
+            "net_efficiency": 0.03187905646269721,
+            "match_num": 6
+        },
+        {
+            "team_name": "Portugal",
+            "team_id": 780,
+            "offensive_efficiency": 0.13717812761544768,
+            "defensive_efficiency": 0.15702146322058735,
+            "net_efficiency": -0.019843335605139657,
+            "match_num": 4
+        },
+        {
+            "team_name": "Austria",
+            "team_id": 915,
+            "offensive_efficiency": 0.11894485540346857,
+            "defensive_efficiency": 0.11165029268470758,
+            "net_efficiency": 0.007294562718760972,
+            "match_num": 4
+        },
+        {
+            "team_name": "Hungary",
+            "team_id": 916,
+            "offensive_efficiency": 0.2117434150258218,
+            "defensive_efficiency": 0.1535892011449381,
+            "net_efficiency": 0.058154213880883716,
+            "match_num": 3
+        },
+        {
+            "team_name": "Scotland",
+            "team_id": 942,
+            "offensive_efficiency": 0.13094242511177395,
+            "defensive_efficiency": 0.16821453139787068,
+            "net_efficiency": -0.03727210628609675,
+            "match_num": 3
+        },
+        {
+            "team_name": "Czech Republic",
+            "team_id": 912,
+            "offensive_efficiency": 0.15334176180782377,
+            "defensive_efficiency": 0.13053513809550546,
+            "net_efficiency": 0.022806623712318307,
+            "match_num": 5
+        },
+        {
+            "team_name": "France",
+            "team_id": 771,
+            "offensive_efficiency": 0.1375732626719876,
+            "defensive_efficiency": 0.13483001672309697,
+            "net_efficiency": 0.0027432459488906423,
+            "match_num": 4
+        },
+        {
+            "team_name": "North Macedonia",
+            "team_id": 2358,
+            "offensive_efficiency": 0.115029835698584,
+            "defensive_efficiency": 0.250872951167346,
+            "net_efficiency": -0.13584311546876202,
+            "match_num": 3
+        },
+        {
+            "team_name": "Netherlands",
+            "team_id": 941,
+            "offensive_efficiency": 0.14146410167136997,
+            "defensive_efficiency": 0.13396969482230325,
+            "net_efficiency": 0.0074944068490667565,
+            "match_num": 4
+        },
+        {
+            "team_name": "Wales",
+            "team_id": 907,
+            "offensive_efficiency": 0.1414094192382655,
+            "defensive_efficiency": 0.2055569546024557,
+            "net_efficiency": -0.0641475353641902,
+            "match_num": 4
+        },
+        {
+            "team_name": "Slovakia",
+            "team_id": 908,
+            "offensive_efficiency": 0.032388663967611336,
+            "defensive_efficiency": 0.17382994267156393,
+            "net_efficiency": -0.14144127870395262,
+            "match_num": 3
+        },
+        {
+            "team_name": "Poland",
+            "team_id": 789,
+            "offensive_efficiency": 0.15495964897609368,
+            "defensive_efficiency": 0.17628014437856632,
+            "net_efficiency": -0.021320495402472658,
+            "match_num": 3
+        }
+    ]
+}
